@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/netreseau/marvel-quiz.git/static/css/main.7ca44a88.chunk.css",
+    "main.js": "/netreseau/marvel-quiz.git/static/js/main.f8f48bb0.chunk.js",
+    "main.js.map": "/netreseau/marvel-quiz.git/static/js/main.f8f48bb0.chunk.js.map",
+    "runtime-main.js": "/netreseau/marvel-quiz.git/static/js/runtime-main.08983d55.js",
+    "runtime-main.js.map": "/netreseau/marvel-quiz.git/static/js/runtime-main.08983d55.js.map",
+    "static/css/2.2791bdd4.chunk.css": "/netreseau/marvel-quiz.git/static/css/2.2791bdd4.chunk.css",
+    "static/js/2.7fa0a273.chunk.js": "/netreseau/marvel-quiz.git/static/js/2.7fa0a273.chunk.js",
+    "static/js/2.7fa0a273.chunk.js.map": "/netreseau/marvel-quiz.git/static/js/2.7fa0a273.chunk.js.map",
+    "static/js/3.a98c69cd.chunk.js": "/netreseau/marvel-quiz.git/static/js/3.a98c69cd.chunk.js",
+    "static/js/3.a98c69cd.chunk.js.map": "/netreseau/marvel-quiz.git/static/js/3.a98c69cd.chunk.js.map",
+    "index.html": "/netreseau/marvel-quiz.git/index.html",
+    "precache-manifest.b88dc9309f8b83eb0f4bfc608ea8d6fd.js": "/netreseau/marvel-quiz.git/precache-manifest.b88dc9309f8b83eb0f4bfc608ea8d6fd.js",
+    "service-worker.js": "/netreseau/marvel-quiz.git/service-worker.js",
+    "static/css/2.2791bdd4.chunk.css.map": "/netreseau/marvel-quiz.git/static/css/2.2791bdd4.chunk.css.map",
+    "static/css/main.7ca44a88.chunk.css.map": "/netreseau/marvel-quiz.git/static/css/main.7ca44a88.chunk.css.map",
+    "static/js/2.7fa0a273.chunk.js.LICENSE.txt": "/netreseau/marvel-quiz.git/static/js/2.7fa0a273.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/netreseau/marvel-quiz.git/static/media/wolverine.6c4150e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08983d55.js",
+    "static/css/2.2791bdd4.chunk.css",
+    "static/js/2.7fa0a273.chunk.js",
+    "static/css/main.7ca44a88.chunk.css",
+    "static/js/main.f8f48bb0.chunk.js"
+  ]
+}
